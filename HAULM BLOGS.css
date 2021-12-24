@@ -1,0 +1,48 @@
+body
+{
+	background-color:black;
+	width:80%;
+	margin:auto;
+	font-size:30px;
+	line-height:1.5em;
+	word-spacing:12px;
+}
+
+h2
+{
+	color:blue;
+	text-align:center;
+}
+
+h4
+{
+	color:white;
+	text-align:right;
+}
+
+h3
+{
+	color:white;
+	text-align:left;
+}
+
+p
+{
+	color:white;
+}
+
+.class
+{
+	color:white;
+}
+
+.pyclass
+{
+	color:orange;
+	text-align:left;
+}
+
+.head1
+{
+	color:#FF00FF;
+}
